@@ -22,7 +22,7 @@ The amplifier consists of the following four stages:
    - Class AB emitter follower.
    - Amplifies current to drive the speaker.
 
-## 🛠 Tools Used
+## Tools Used
 - **LTSpice** for circuit simulation.
 - **Hand calculations** for design verification. &
 - **Hardware**
@@ -37,4 +37,4 @@ The amplifier consists of the following four stages:
 
 ---
 
-> 📌 This project was developed as part of the Semester 4 EW-II course.
+> This project was developed as part of the Semester 4 EW-II course.
