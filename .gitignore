@@ -1,0 +1,7 @@
+*.log
+*.raw
+*.plt
+*.asc.bak
+.DS_Store
+Thumbs.db
+__pycache__/
